@@ -1,0 +1,1 @@
+IMAGE_STYLES = {:mini => '48x48#', :normal => '200x200>', :large => '600x600>'}
